@@ -1,1 +1,10 @@
 
+h2{
+  text-align:center;
+  color:red;
+  background-color:yellow;
+  border:3px dashed deeppink;}
+a{
+  text-align: center;
+  color:steelblue;
+  font-family:sans-serif;}
